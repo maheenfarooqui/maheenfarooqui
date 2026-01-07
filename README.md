@@ -67,12 +67,11 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=maheenzuhra&show_icons=true](https://github-readme-stats.vercel.app/api?username=maheenfarooqui&show_icons=true
-)&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maheenfarooqui&show_icons=true&theme=radical&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenzuhra&layout=compact&theme=radical&bg_color=0D1117" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maheenfarooqui&layout=compact&theme=radical&bg_color=0D1117" />
 </p>
 
 ---
@@ -99,5 +98,5 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 ---
 
 <p align="center">
-   *Focused on growth • Open to opportunities • React in progress* 
+   Focused on growth • Open to opportunities • React in progress 
 </p>
