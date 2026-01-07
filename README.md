@@ -67,7 +67,8 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheenzuhra&show_icons=true&theme=radical&bg_color=0D1117" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=maheenzuhra&show_icons=true](https://github-readme-stats.vercel.app/api?username=maheenfarooqui&show_icons=true
+)&theme=radical&bg_color=0D1117" />
 </p>
 
 <p align="center">
