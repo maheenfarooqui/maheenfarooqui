@@ -64,18 +64,6 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maheenfarooqui&show_icons=true&theme=radical&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maheenfarooqui&layout=compact&theme=radical&bg_color=0D1117" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="left">
