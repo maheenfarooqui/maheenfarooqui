@@ -5,9 +5,17 @@
 <h3 align="center">Front-End Developer (React.js)</h3>
 
 <p align="center">
-  <a href="mailto:maheenzuhra@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/maheen-zuhra/">LinkedIn</a> •
-  <a href="https://github.com/maheenfarooqui">GitHub</a>
+  <a href="mailto:maheenzuhra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/maheen-zuhra/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/maheenfarooqui">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
@@ -63,6 +71,14 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 > 📌 *More React-based projects coming as I continue to grow.*
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenfarooqui&layout=donut&theme=radical" width="48%" />
+</p>
+
+
+
+
+
 
 ## 🤝 Let’s Connect
 
