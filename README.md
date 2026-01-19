@@ -9,13 +9,11 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/maheen-zuhra/">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/maheenfarooqui">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"/>
-</a>
-
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/maheenfarooqui">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
@@ -31,29 +29,23 @@ I'm **Maheen Zuhra**, a passionate **Front-End Developer** with strong fundament
 
 ---
 
-## 🎯 Career Objective
+## 📊 My GitHub Activity & Stats
 
-To secure a **Front-End / React Developer** role where I can apply my JavaScript and React skills, learn from real-world projects, and contribute to building high-quality user interfaces.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenfarooqui&layout=donut&theme=radical&hide_border=true" width="48%" />
+</p>
 
----
-
-## 🧠 Core Skills
-
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
-* **Library / Framework:** React.js
-* **Styling:** Tailwind CSS, Bootstrap
-* **Concepts:** Component-Based Architecture, Responsive Design
-* **Tools:** Git, GitHub, Figma (basic)
+<p align="center">
+  <img src="https://ghchart.rshah.org/872742/maheenfarooqui" alt="Maheen's GitHub Chart" width="100%" />
+</p>
 
 ---
 
-## 🚀 React Learning Journey
+## 🧠 Core Skills & Tech Stack
 
-* ✔️ JavaScript ES6 fundamentals (arrays, objects, functions)
-* ✔️ React basics: components, props, state
-* ✔️ Hooks: `useState`, `useEffect`
-* 🔄 Practicing reusable UI components
-* 🔜 Working on small-to-medium React projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,vscode,npm" />
+</p>
 
 ---
 
@@ -68,17 +60,7 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 * **React UI Components**
   *React.js* — Buttons, cards, modals built using hooks and props.
 
-> 📌 *More React-based projects coming as I continue to grow.*
-
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenfarooqui&layout=donut&theme=radical" width="48%" />
-</p>
-
-
-
-
-
 
 ## 🤝 Let’s Connect
 
@@ -91,16 +73,6 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma" />
-</p>
-
----
-
 <p align="center">
-   Focused on growth • Open to opportunities • React in progress 
+  Focused on growth • Open to opportunities • React in progress 
 </p>
