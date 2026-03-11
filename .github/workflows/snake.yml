@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: maheenfarooqui
           outputs: |
-            dist/snake.svg
+            dist/github-snake.svg?color_snake=872742&color_dots=#ebedf0,#c6a3b2,#a8748f,#8a4a69,#872742
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
