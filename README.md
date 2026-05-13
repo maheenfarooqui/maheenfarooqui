@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:872742,100:4B1248&height=230&section=header&text=Maheen%20Zuhra&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=230&section=header&text=Maheen%20Zuhra&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Front-End Developer • React.js Learner</h3>
