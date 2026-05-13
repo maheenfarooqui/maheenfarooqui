@@ -75,24 +75,26 @@ Hi, I'm **Maheen Zuhra**, a passionate **Front-End Developer** focused on buildi
 
 # 📂 Featured Projects
 
-### 🌐 Responsive Portfolio Website
-**HTML • CSS • Bootstrap**
-
-Modern responsive portfolio with clean UI and mobile-friendly design.
-
----
-
-### 🎨 Landing Pages Collection
-**Tailwind CSS**
-
-Beautiful UI components including hero sections, cards and layouts.
+### ⚛ React Consultancy Website
+**React.js • Tailwind CSS**
+Professional consultancy platform built with a focus on modern UI and smooth navigation.
+🔗 [**Live Demo**](https://siddiquiconsultant.netlify.app/)
 
 ---
 
-### ⚛ React UI Components
-**React.js**
+### 🛒 E-commerce Luxury Store
+**HTML • CSS • JavaScript**
+A premium luxury e-store featuring a sleek shopping experience and responsive layout.
+🔗 [**Live Demo**](https://zauq-luxury-e-store.netlify.app/)
 
-Reusable components like buttons, cards, modals built using **props and hooks**.
+---
+
+### 🍽️ Restaurant Website
+**React.js • Tailwind CSS**
+Modern restaurant landing page with interactive components and clean design.
+🔗 [**Live Demo**](https://bitereserve.netlify.app/)
+
+---
 
 ---
 
