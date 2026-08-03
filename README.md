@@ -37,18 +37,6 @@ Hi, I'm **Maheen Zuhra**, a passionate **Front-End Developer** focused on buildi
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maheenfarooqui&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenfarooqui&layout=compact&theme=radical&hide_border=true" width="49%" />
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -61,14 +49,6 @@ Hi, I'm **Maheen Zuhra**, a passionate **Front-End Developer** focused on buildi
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheenfarooqui&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/maheenfarooqui/maheenfarooqui/output/snake.svg" />
 </p>
 
 ---
