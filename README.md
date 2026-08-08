@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi, I'm Maheen Zuhra 👋</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maheenfarooqui&color=000000&style=flat-square" alt="Profile Views" />
+</p>
+
 <h3 align="center">
 Frontend Developer • React • Next.js • TypeScript
 </h3>
